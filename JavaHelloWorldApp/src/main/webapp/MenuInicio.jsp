@@ -16,7 +16,7 @@
   <div class="row">
     <div class="col-sm-4">
       <h3>Login Administrador</h3>
-    	<li><a href="LoginAdministrador.jsp">Iniciar Sesión</a> <!-- <input type="submit" value= "Entrar" class="special"/> --></li>
+    	<li><a href="LogginAdministrador.jsp">Iniciar Sesión</a> <!-- <input type="submit" value= "Entrar" class="special"/> --></li>
     </div>
     <div class="col-sm-4">
       <h3>Login Encargado</h3>
