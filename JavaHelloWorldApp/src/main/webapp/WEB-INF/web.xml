@@ -51,8 +51,6 @@
     	<servlet-name>RegistrarReservaSala</servlet-name>
     	<url-pattern>/RegistrarReservaSala</url-pattern>
   	</servlet-mapping>
-
-
-
+  	
 
 </web-app>
